@@ -1,0 +1,14 @@
+﻿.. container:: autosummary-back-link
+
+   :doc:`← Back to API reference <../reference>`
+
+neuraltrain.models.dummy\_predictor.DummyPredictor
+==================================================
+
+.. currentmodule:: neuraltrain.models.dummy_predictor
+
+.. autopydantic_model:: DummyPredictor
+
+.. container:: autosummary-back-link
+
+   :doc:`← Back to API reference <../reference>`
